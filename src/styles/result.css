@@ -1,0 +1,10 @@
+.result-hero {
+  font-size: 1.1rem;
+}
+.prob-list {
+  margin: 0;
+  padding-left: 18px;
+}
+.prob-list li {
+  margin: 4px 0;
+}
